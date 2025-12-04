@@ -77,4 +77,4 @@ I included a `validate` command that actually attempts to unzip the output file 
 ### Doc 2
 ![Screenshot 3](images/ss3.png)
 
-![Screenshot 3](images/ss4.png)# docx-precision-cli
+![Screenshot 3](images/ss4.png)
