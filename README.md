@@ -1,6 +1,6 @@
 # CLI based Doc Manipulation
 
-This is my submission for the Doc Manipulation challenge. It's a command-line tool that parses `.docx` files, maps them to JSON, and allows for surgical edits (replace, insert, delete, format) while keeping the underlying XML valid.
+This is my submission for the Doc Manipulation challenge. It's a command-line tool that parses `.docx` files, maps them to JSON, and allows for surgical edits (replace, insert, delete, format) while keeping the underlying XML valid. More details on https://alishan.dev
 
 ## Quick Start
 
